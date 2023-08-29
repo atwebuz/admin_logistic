@@ -1,0 +1,5 @@
+  $permissions = [
+            'permission.show', 'permission.edit',  'permission.add', 'permission.delete', 
+            'roles.show', 'roles.edit', 'roles.add','roles.delete', 
+            'user.show','user.edit', 'user.add','user.delete', 'api-user.add','api-user.view', 'api-user.edit','api-user-passport.view',            
+  ];
